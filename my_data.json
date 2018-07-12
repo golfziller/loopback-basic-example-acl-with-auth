@@ -1,0 +1,31 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 19,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "daily": 13
+  },
+  "models": {
+    "User": {
+      "1": "{\"password\":\"$2a$10$FUScT8ejOe2W1Ev92flvV.IGpLN5vjDmcgzBeozBWDanh3JvywXfm\",\"email\":\"test@test.co.th\",\"id\":1}"
+    },
+    "AccessToken": {
+      "pNqozmbKsSmBTzh31ul8ddzyvWMI0n0Qb2dD6rGoW0bvVbnTPSrsmcl9EmJV83IT": "{\"id\":\"pNqozmbKsSmBTzh31ul8ddzyvWMI0n0Qb2dD6rGoW0bvVbnTPSrsmcl9EmJV83IT\",\"ttl\":1209600,\"created\":\"2018-07-12T05:20:12.667Z\",\"userId\":1}",
+      "jfVacXc76um9znr2JAurDWgGDELf3iDnMCVPpguszI0UZDTiLLaAass4uDDxPW6r": "{\"id\":\"jfVacXc76um9znr2JAurDWgGDELf3iDnMCVPpguszI0UZDTiLLaAass4uDDxPW6r\",\"ttl\":1209600,\"created\":\"2018-07-12T05:53:23.216Z\",\"userId\":1}",
+      "pTJhqkUucAVz0v3E3CoGpiMyDhLdystVEy4rLjYiIpkv4BTpatrzbAVQteNsaxFf": "{\"id\":\"pTJhqkUucAVz0v3E3CoGpiMyDhLdystVEy4rLjYiIpkv4BTpatrzbAVQteNsaxFf\",\"ttl\":1209600,\"created\":\"2018-07-12T07:32:40.502Z\",\"userId\":1}",
+      "FdsYtRrIQ4JglPI2nT5ghO7xZWfcmCeuxFBtDYoKv3rw91XRYvBA0zOlDkbUiR8A": "{\"id\":\"FdsYtRrIQ4JglPI2nT5ghO7xZWfcmCeuxFBtDYoKv3rw91XRYvBA0zOlDkbUiR8A\",\"ttl\":1209600,\"created\":\"2018-07-12T07:38:43.315Z\",\"userId\":1}",
+      "e0hMDacD3sX4j5ArkJty1sqvjoYvH8jHNJLYZ9paCBzK3lwlCcqRajXeR2yCOHaT": "{\"id\":\"e0hMDacD3sX4j5ArkJty1sqvjoYvH8jHNJLYZ9paCBzK3lwlCcqRajXeR2yCOHaT\",\"ttl\":1209600,\"created\":\"2018-07-12T07:41:09.999Z\",\"userId\":1}",
+      "LIRajGjfP9T1G7XaqbEv5dL0An1qsnwTJRXxDWdH6rqsu10lI2vLLJFRHyHQ7Pyg": "{\"id\":\"LIRajGjfP9T1G7XaqbEv5dL0An1qsnwTJRXxDWdH6rqsu10lI2vLLJFRHyHQ7Pyg\",\"ttl\":1209600,\"created\":\"2018-07-12T07:42:57.243Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "daily": {
+      "7": "{\"userId\":0,\"listName\":\"string\",\"money\":60,\"type\":\"string\",\"byDate\":\"2018-07-12T05:42:28.907Z\",\"createDate\":\"2018-07-12T05:42:28.907Z\",\"id\":7}",
+      "10": "{\"userId\":1,\"listName\":\"ซื้อรองเท้า\",\"money\":516,\"type\":\"out\",\"byDate\":\"2018-07-10T07:15:42.000Z\",\"createDate\":\"2018-07-12T07:16:03.067Z\",\"id\":10}",
+      "11": "{\"userId\":1,\"listName\":\"ขายน้ำ\",\"money\":5000,\"type\":\"in\",\"byDate\":\"2018-07-10T07:26:26.000Z\",\"createDate\":\"2018-07-12T07:26:50.787Z\",\"id\":11}"
+    }
+  }
+}
